@@ -11,8 +11,10 @@ Once The IDE is installed, accept and install all the dependencies required by t
 # Install all required dependencies for the ESP32
 
 ## Boards Manager
-``` Arduino ESP32 Boards by Arduino ```
-``` esp32 by Espressif Systems ```
+```
+Arduino ESP32 Boards by Arduino
+esp32 by Espressif Systems
+'''
 
 ## Library Manager
 ``` Arduino_ESP32_OTA by Arduino ```
